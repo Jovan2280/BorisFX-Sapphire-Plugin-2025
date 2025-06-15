@@ -23,13 +23,13 @@ Sapphire is a collection of premium visual effects for video and animation, incl
 ### 2. Turn off all your antiviruses
 (As this is a crack, the antivirus may mistake the file for a virus)
 
-### 2. Run the Setup.exe 
+### 3. Run the Setup.exe 
 - Select your video editor (e.g. After Effects, Resolve, etc.)
 - If the file does not open, run it as an administrator.
 
-### 3. Wait for the installation to finish
+### 4. Wait for the installation to finish
 
-### 4. Open your video editor  
+### 5. Open your video editor  
 Sapphire will now appear in your effects panel.
 
 ---
